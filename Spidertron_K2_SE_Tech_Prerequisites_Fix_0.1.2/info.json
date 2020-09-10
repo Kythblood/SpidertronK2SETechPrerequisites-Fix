@@ -1,0 +1,12 @@
+{
+  "name": "Spidertron_K2_SE_Tech_Prerequisites_Fix",
+  "version": "0.1.2",
+  "factorio_version": "1.0",
+  "title": "Spidertron K2 SE Tech Prerequisites Fix",
+  "author": "Kythblood",
+  "dependencies": [
+      "base >= 1.0", 
+      "? Krastorio2 >= 1.0.0", 
+      "? space-exploration >= 0.3.107"], 
+  "description": "Fixes the issue that with Krastorio 2 and Space Exploration installed the technology to unlock the Spidertron is gated behind the AI core technology, without even requiring an AI Core in the recipe. This mod fixes that."
+}
