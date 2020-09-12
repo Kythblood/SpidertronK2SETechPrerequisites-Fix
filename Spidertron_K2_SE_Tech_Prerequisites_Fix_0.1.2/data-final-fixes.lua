@@ -42,7 +42,6 @@ if mods["space-exploration"] and mods["Krastorio2"] then
     
     -- re-add the prerequisites that got overwritten by Krastorio 2
     addPrerequisite(tech, "se-biological-science-pack-1")
-    addPrerequisite(tech, "se-biological-science-pack-1")
     -- addPrerequisite(tech, "se-rocket-science-pack")      
     -- addPrerequisite(tech, "se-material-science-pack-1")
         -- not needed because they are already prerequisites of Heavy Glider technology
