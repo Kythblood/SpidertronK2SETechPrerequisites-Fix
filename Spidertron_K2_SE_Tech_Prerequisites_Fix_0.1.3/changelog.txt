@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 12.09.2020
+  Changes:
+    - For newer versions, this mod only adds the missing Rocket science pack and the Material science pack 1 as ingredients for the Spidertron technology, that got overwritten by K2
+  Bugfixes:
+    - Fixed the crash that occured with Space Exploration Postprocess (Required) Version 0.3.23 and up
+
